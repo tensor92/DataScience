@@ -7,7 +7,8 @@
 # 2) Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack
 # 3) No disk may be placed on top of a smaller disk.
 #
-# The minimal number of moves required to solve a Tower of Hanoi puzzle is 2^n − 1, where n is the number of disks.
+# New line
+#The minimal number of moves required to solve a Tower of Hanoi puzzle is 2^n − 1, where n is the number of disks.
 
 A = [3, 2, 1]
 B = []
